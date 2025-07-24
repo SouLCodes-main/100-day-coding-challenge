@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: "consolas", sans-serif;
+}
+
+header{
+    display: flex;
+}
+
+main{
+    color: white;
+}
+
+figure{
+    justify-content: center;
+
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
